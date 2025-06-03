@@ -2,6 +2,11 @@
 
 import { motion } from "framer-motion";
 
+export const metadata = {
+  title: 'Aksiomatix | Axel Jorgensen Portfolio',
+  description: 'Unreal Developer & Audio Alchemist crafting stylized immersive systems.',
+};
+
 export default function Home() {
   return (
     <main className="min-h-screen bg-black text-white flex flex-col justify-center items-center p-6">
