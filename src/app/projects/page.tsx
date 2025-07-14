@@ -203,7 +203,7 @@ export default function Projects() {
               </p>
               <br></br>
               <p>
-                The player’s home base is the entertainment sector of their crashed colony ship. This space is fully customizable, gradually upgraded using materials and drops earned through gameplay. A personal sanctuary within the chaos.
+                The player&apos;s home base is the entertainment sector of their crashed colony ship. This space is fully customizable, gradually upgraded using materials and drops earned through gameplay. A personal sanctuary within the chaos.
               </p>
             </div>
             <div>
@@ -272,7 +272,7 @@ export default function Projects() {
               </p>
               <br></br>
               <p>
-                This ceiling-mounted speaker stack allows for vertical stage design and dramatic silhouettes. It's my first asset and defines the cyberpunk tone I’m building toward.
+                This ceiling-mounted speaker stack allows for vertical stage design and dramatic silhouettes. It's my first asset and defines the cyberpunk tone I am building toward.
               </p>
             </div>
             <div>
@@ -290,7 +290,7 @@ export default function Projects() {
               </p>
               <br></br>
               <p>
-                A custom floor speaker built for maximum presence. A centerpiece for the party world I’m constructing.
+                A custom floor speaker built for maximum presence. A centerpiece for the party world I am constructing.
               </p>
             </div>
             <div>
