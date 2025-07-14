@@ -272,7 +272,7 @@ export default function Projects() {
               </p>
               <br></br>
               <p>
-                This ceiling-mounted speaker stack allows for vertical stage design and dramatic silhouettes. It's my first asset and defines the cyberpunk tone I am building toward.
+                This ceiling-mounted speaker stack allows for vertical stage design and dramatic silhouettes. It&apos;s my first asset and defines the cyberpunk tone I am building toward.
               </p>
             </div>
             <div>
